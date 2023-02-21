@@ -1,5 +1,5 @@
 <template>
-    <p>Chatroom</p>
+    <p>Chatroom created as a Vue project Filip Rękas</p>
     <div class="container"></div>
     <NavBar/>
     <ChatWindow/>
