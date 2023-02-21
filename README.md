@@ -9,6 +9,7 @@ https://vue-project-53f81.firebaseapp.com/
 ## Project setup
 ```
 npm install
+Delete index.html if necessary
 ```
 
 ### Compiles and hot-reloads for development
