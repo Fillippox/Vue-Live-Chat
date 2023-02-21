@@ -1,5 +1,11 @@
 # live-chat
 
+## Project Online
+```
+https://vue-project-53f81.web.app/
+https://vue-project-53f81.firebaseapp.com/
+```
+
 ## Project setup
 ```
 npm install
